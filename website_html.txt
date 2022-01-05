@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kristina Pileckaite Personal Site</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat:ital,wght@1,100&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="top-container">
+        <h1>I'm Kristina</h1>
+        <h2>an administrator</h2>
+         <img class="desk" src="images/desk.png" alt="desk">
+    </div>
+    <div class="middle-container">
+        <div class="profile">
+            <img class="profile-image" src="images/webside-image.jpg" alt="profile">
+            <h2>About Me</h2>
+            <p class="intro">I'm an English graduate who is passionate about gaining new skills in tech.</br>
+                I'm learning Python programming language. I'm also familiar with a web design and a data management.<br/>
+                I do enjoy it and like to go deeper and expand my knowledge.
+            </p>
+    </div>
+    <hr>
+    <div class="skills">
+        <h3>Education</h3>
+        <div class="skill-row">
+            <img class="dots-img" src="images/jobs.png" alt="dots">
+            <ul>
+                <li>English Philology, BA, Lithuanian University of Educational Sciences</li>
+                <li><a href="https://codeacademy.lt/">Big Data, Code Academy</a></li>
+                <li>Digital Transformation, Coursera</li>
+                <li><a href="https:www.udemy.com/course/100-days-of-code/?src=sac&kw=100+days+of+code">Python Programming, London AppBrewery, Udemy</a></li>
+                <li>AI for Everyone, Deep Learning, Coursera</li>
+                <li>Corporate Finance Essentials, IESE Business School, Coursera</li>
+                <li>Design Thinking for Innovation, University of Virginia, Coursera</li>
+                <li>Digital Product Management: Modern Fundamentals, University of Virginia, Coursera</li>
+                <li>Fundamentals of Project Planning and Management, University of Virginia, Coursera</li>
+                <li>Financial Markets, Yale University</li>
+                <li>Global Diplomacy - Diplomacy in the Modern World, University of London SOAS</li>
+                <li>French Language, Alliance Francaise, Inc, Bristol, UK</li>
+                <li>Global Environmental Management, Technical University of DEnamrk, Coursera</li>
+                <li><a href="https://www.youtube.com/watch?v=kBdfcR-8hEY">Justice: What's The Right Thing To Do? Michael Sandel, Harvard University</a></li>
+                <li>Modern Art & Ideas, The Museum of Modern Art</li>
+                <li>The Science of Well-Being, Yale University, Coursera</li>
+                <li>International Women's Health and Human Rights, Stanford Univerity</li>
+                <li>Team Leading Basics/Personal Management, EDEXCEL BTEC, Intraining Group, Bristol, UK</li>
+                <li>Creative writing, L'Officiel Liethuania</li>
+            </ul>
+    <hr>
+    <div class="work-experience">
+        <h3>Work Experience</h3>
+        <p class="ford">"If I had asked people what they wanted, they would have said faster horses." <br> - Henry Ford</p>
+            <table cellspacing="10">
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th>Work</th>
+                    </tr>
+                </thead>
+                <body>
+                <tr>
+                    <td>2016-2019</td>
+                    <td>Administrator at TGS Baltic</td>
+                </tr>
+                <tr>
+                    <td>2015-2016</td>
+                    <td>Sales and Service Specialist at Swarovski</td>
+                </tr>
+                <tr>
+                    <td>2013-2014</td>
+                    <td>Support Specialist at UPS Transcom</td>
+                </tr>
+                </body>
+                <tfoot>
+
+                </tfoot>
+            </table>
+    </div>
+            <hr>
+
+        </div>
+        <div class="skill-row">
+            <h3>Skills</h3>
+            <table cellspacing="10">
+                <tr>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>MySQL</td>
+                                <td>⭐⭐⭐⭐⭐</td>
+                            </tr>
+                            <tr>
+                                <td>CSS(3)</td>
+                                <td>⭐⭐⭐⭐⭐</td>
+                            </tr>
+                            <tr>
+                                <td>HTML(5)</td>
+                                <td>⭐⭐⭐⭐⭐</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>Python</td>
+                                <td>⭐⭐⭐⭐</td>
+                            </tr>
+                            <tr>
+                                <td>Photography</td>
+                                <td>⭐⭐⭐</td>
+                            </tr>
+                            <tr>
+                                <td>Painting</td>
+                                <td>⭐⭐⭐</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <hr>
+            <h3>Languages</h3>
+            <table cellspacing="10">
+                <tr>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>Lithuanian(Mother Tongue)</td>
+                                <td>⭐⭐⭐⭐⭐</td>
+                            </tr>
+                            <tr>
+                                <td>English(Full Professional Proficiency)</td>
+                                <td>⭐⭐⭐⭐⭐</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>French(Limited Working Proficiency)</td>
+                                <td>⭐⭐⭐</td>
+                            </tr>
+                            <tr>
+                                <td>Russian (Elementary Proficiency)</td>
+                                <td>⭐⭐</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <hr>
+             <h3>My Hobbies</h3>
+             <ul>
+                 <li><a href="books.html">Books</a> </li>
+                 <li>Movies</li>
+                 <li>Travelling</li>
+                 <li>Yoga, Pilates <a href="https://bohobeautiful.life/?v=c562607189d7">Boho Beautiful Lifestyle</a></li>
+             </ul>
+
+
+
+        </div>
+    </div>
+
+    <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h3>If you want to make a difference</h3>
+        <p class="contact-message">Let's share your ideas with us!</p>
+        <a class="myButton" href="mailto:name@email.com">CONTACT ME</a>
+    </div>
+</div>
+
+<div class="bottom-container">
+    <a class="footer-link" href="https://www.linkedin.com">LinkedIn</a>
+</div>
+
+</body>
+</html>

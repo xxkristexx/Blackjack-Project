@@ -1,0 +1,138 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+ color: #FFFFD2;
+ font-size: 5.625rem;
+ font-family: 'Sacramento', cursive;
+ margin: 50px auto 0 auto;
+}
+
+h2{
+ color: #FFFFD2;
+ font-family: 'Sacramento', cursive;
+ font-size: 2.5rem;
+ font-weight: normal;
+ padding-bottom: 10px;
+}
+
+h3{
+ color: #FFFFD2;
+ font-family: 'Montserrat', sans-serif;
+
+}
+
+hr {
+ border: dotted #FFFFD2 6px;
+ border-bottom: none;
+ width: 4%;
+ margin: 100px auto;
+}
+
+a{
+ margin: 10px 20px;
+ font-family: 'Montserrat', sans-serif;
+ color: #FFFFD2;
+ text-decoration: none;
+}
+
+a:hover{
+  color: #A8D8EA;
+}
+
+.top-container{
+  background-color: #A8D8EA;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.middle-container{
+  background-color: #AA96DA;
+  padding-top: 50px;
+}
+
+.skills{
+  background-color: #AA96DA;
+}
+
+.skill-row{
+  background-color: #AA96DA;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: center;
+}
+
+.bottom-container{
+  background-color: #FCBAD3;
+
+}
+
+.contact-me{
+  background-color: #FCBAD3;
+  padding: 50px 0 20px;
+}
+
+.desk{
+ width: 25%;
+}
+
+.dots-img{
+ width: 25%;
+ float: left;
+ margin-right: 30px;
+}
+
+.intro{
+ line-height: 2;
+}
+
+.profile-image{
+  border-radius: 100%;
+}
+
+.contact-message{
+ width: 40%;
+ margin: 40px auto 60px;
+}
+
+
+
+.myButton {
+	background:linear-gradient(to bottom, #dfbdfa 5%, #bc80ea 100%);
+	background-color:#dfbdfa;
+	border-radius:8px;
+	border:1px solid #c584f3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:14px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 8px #9752cc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #bc80ea 5%, #dfbdfa 100%);
+	background-color:#bc80ea;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.work-experience{
+  text-align: center;
+}
+
+.ford{
+  font-family: 'Sacramento', cursive;
+  color: #FFFFD2;
+  font-size: 32px;
+  width: 50%;
+  float: right;
+
+}
