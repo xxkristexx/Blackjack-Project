@@ -5,3 +5,5 @@ def calculate_score(cards):
     cards.remove(11)
     cards.append(1)
   return sum(cards)
+  else sum(cards) == 22 and len(cards) == 3:
+     print("Hello world")
